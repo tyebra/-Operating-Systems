@@ -1,2 +1,3 @@
 Security is a function of an operating system that prevents unauthorized access to any given device. Security systems work by asking unknown users for a password. Data is protected by giving the password to the files.
 UI (User Interface) controls how data is entered and how information is displayed on the screen.  UI focuses on increasing usability, uniformity, and user experience. 
+Memory management optimizes the functionality of a devices' internal memory. Its purpose is to provide ways to designate parts of memory to programs at their request dynamically.
