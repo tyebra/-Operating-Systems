@@ -1,0 +1,1 @@
+Security is a function of an operating system that prevents unauthorized access to any given device. Security systems work by asking unknown users for a password. Data is protected by giving the password to the files.
